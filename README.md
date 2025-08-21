@@ -81,7 +81,7 @@ Hi, I’m Prashanth, an MCA graduate from Bangalore, Karnataka. I’m passionate
 ## GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrashanthV-ai&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrashanthV-36&theme=dark" alt="GitHub Streak" />
 </div>
 
 ---
