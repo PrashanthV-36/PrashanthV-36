@@ -88,6 +88,6 @@ Hi, I’m Prashanth, an MCA graduate from Bangalore, Karnataka. I’m passionate
 
 ## GitHub Contribution Graph
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/PrashanthV-ai/PrashanthV-ai/blob/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/PrashanthV-36/PrashanthV-36/blob/output/pacman-contribution-graph-dark.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PrashanthV-ai/PacmanGraph/main/output/pacman-contribution-graph.svg">
 </picture>
