@@ -73,8 +73,9 @@ Hi, I’m Prashanth, an MCA graduate from Bangalore, Karnataka. I’m passionate
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrashanthV-36&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=dark" />
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashanthV-36&layout=compact&langs_count=8&theme=dark&hide_border=false" />
 </div>
+
 
 ---
 
