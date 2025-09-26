@@ -11,8 +11,8 @@ Hi, I’m Prashanth, an MCA graduate from Bangalore, Karnataka. I’m passionate
 <td>
 
 ✨ Passionate coder exploring new technologies  
-📚 **Learning:** Full-stack web development & backend systems  
-🎯 **Goal:** Build impactful and scalable software solutions  
+📚 **Learning:** Front end web development , backend systems & Software Testing  
+🎯 **Goal:** Build impactful and scalable software solutions  and Provide a Good Software without any Bugs
 🎲 **Fun fact:** I love turning complex problems into elegant solutions
 
 </td>
