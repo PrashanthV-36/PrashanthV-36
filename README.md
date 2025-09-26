@@ -3,7 +3,6 @@
 Hi, I’m Prashanth, an MCA graduate from Bangalore, Karnataka. I’m passionate about technology and enjoy learning new skills to create innovative solutions.
 
 ---
-
 ## About Me
 <table>
   <tr>
