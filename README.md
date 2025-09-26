@@ -5,23 +5,24 @@ Hi, I’m Prashanth, an MCA graduate from Bangalore, Karnataka. I’m passionate
 ---
 
 ## About Me
-
 <table>
-<tr>
-<td>
+  <tr>
+    <td style="padding: 15px; vertical-align: top;">
+      ✨ Passionate coder exploring new technologies <br/>
+      📚 <b>Learning:</b> Front-end web development, backend systems & Software Testing <br/>
+      🎯 <b>Goal:</b> Build impactful and scalable software solutions and provide quality software without bugs <br/>
+      🎲 <b>Fun fact:</b> I love turning complex problems into elegant solutions
+    </td>
 
-✨ Passionate coder exploring new technologies  
-📚 **Learning:** Front end web development , backend systems & Software Testing  
-🎯 **Goal:** Build impactful and scalable software solutions and Provide a Good Software without any Bugs
-🎲 **Fun fact:** I love turning complex problems into elegant solutions
-
-</td>
-<td>
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2kwZzZlcGRscHBhYnAxczVza3Y2eTJsYmtnd2tkZDVyc24xcWZ5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2WMhNcyFOWP280/giphy.gif" height="100" width="150"/>
-
-</td>
-</tr>
+    
+  <td style="padding: 15px; vertical-align: middle; text-align: center;">
+      <img 
+        src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2kwZzZlcGRscHBhYnAxczVza3Y2eTJsYmtnd2tkZDVyc24xcWZ5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2WMhNcyFOWP280/giphy.gif" 
+        height="120" width="180" 
+        style="border-radius: 10px;"
+      />
+    </td>
+  </tr>
 </table>
 
 ---
