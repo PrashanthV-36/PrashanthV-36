@@ -87,7 +87,6 @@ Hi, I’m Prashanth, an MCA graduate from Bangalore, Karnataka. I’m passionate
     </td>
   </tr>
 </table>
-
 </div>
 
 ---
