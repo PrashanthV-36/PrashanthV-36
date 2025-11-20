@@ -56,7 +56,6 @@ Hi, I’m Prashanth, an MCA graduate from Bangalore, Karnataka. I’m passionate
   </tr>
 </table>
 
-
 ### ⚙️ Backend & Tools  
 <table>
   <tr>
@@ -85,6 +84,25 @@ Hi, I’m Prashanth, an MCA graduate from Bangalore, Karnataka. I’m passionate
       <br/>
       <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
     </td>
+  </tr>
+</table>
+
+### 🧪 Automation Testing Tools
+<table>
+  <tr>
+  <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="50" alt="Selenium logo" /> 
+   <br/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/> </td>
+   <td align="center">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50" alt="Postman logo" />
+  <br/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</td>
+
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="50" alt="JUnit logo" />
+  <br/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+</td>  
   </tr>
 </table>
 </div>
@@ -143,13 +161,6 @@ Hi, I’m Prashanth, an MCA graduate from Bangalore, Karnataka. I’m passionate
 
 ---
 
-## GitHub Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrashanthV-36&theme=dark" alt="GitHub Streak" />
-</div>
-
----
 
 ## GitHub Contribution Graph
 <picture>
