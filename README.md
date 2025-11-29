@@ -151,13 +151,27 @@ Hi, I’m Prashanth, an MCA graduate from Bangalore, Karnataka. I’m passionate
 
 ---
 
-## GitHub Stats
+## 🚀 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashanthV-36&layout=compact&langs_count=8&theme=dark"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrashanthV-36&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=dark"/>
+
+  <!-- Top Languages -->
+  <img height="180em"
+       src="https://github-readme-stats-godking17.vercel.app/api/top-langs/?username=PrashanthV-36&layout=compact&theme=dark"/>
+
+  <!-- Stats -->
+  <img height="180em"
+       src="https://github-readme-stats-godking17.vercel.app/api?username=PrashanthV-36&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
+
 </div>
 
+
+---
+## GitHub Trophies
+ <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=PrashanthV-36&theme=radical&no-frame=true&row=1"/>
+
+</div>
 
 ---
 
