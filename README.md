@@ -25,6 +25,22 @@ Hi, I’m Prashanth, an MCA graduate from Bangalore, Karnataka. I’m passionate
 </table>
 
 ---
+## 🏆 Certifications
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">📜 Software Testing Certification</td>
+<td align="center">📜 Selenium Automation Testing</td>
+<td align="center">📜 Java Programming</td>
+<td align="center">📜 Web Development Fundamentals</td>
+</tr>
+</table>
+
+</div>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -148,9 +164,7 @@ Hi, I’m Prashanth, an MCA graduate from Bangalore, Karnataka. I’m passionate
 
 </div>
 
-
 ---
-
 
 ## GitHub Contribution Graph
 <picture>
